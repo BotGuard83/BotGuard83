@@ -26,3 +26,14 @@ Actively learning, practicing daily, and expanding this repository with new labs
 ---
 
 📌 *This repository powers my GitHub profile page.*
+
+## Tool Categories Practiced
+
+### Input & Validation
+- password_checker.py
+
+### Planned
+- ip_validator.py
+- email_checker.py
+
+
