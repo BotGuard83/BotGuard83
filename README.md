@@ -1,16 +1,28 @@
-## Hi there 👋
+# 🔐 BotGuard83 | Cybersecurity Portfolio
 
-<!--
-**BotGuard83/BotGuard83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to **BotGuard83** — a personal cybersecurity portfolio focused on **blue team defense**, **SOC analysis**, and **hands-on security learning**.
 
-Here are some ideas to get you started:
+## 🛡️ What This Repository Is About
+This repository documents my ongoing journey into cybersecurity through:
+- SOC analyst labs & investigations  
+- Threat detection & alert analysis  
+- Networking & security fundamentals  
+- Scripts, notes, and defensive tooling  
+- Hands-on platforms like **TryHackMe**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Areas of Focus
+- Blue Team Operations  
+- SIEM & Log Analysis  
+- Incident Triage & Response  
+- Network & IP Fundamentals  
+- Security Automation (Python/Bash – growing)
+
+## 📈 Goal
+To build **real, demonstrable skills** and a **verifiable portfolio** that reflects practical cybersecurity knowledge — not just theory.
+
+## 🚀 Current Status
+Actively learning, practicing daily, and expanding this repository with new labs and projects.
+
+---
+
+📌 *This repository powers my GitHub profile page.*
