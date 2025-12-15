@@ -31,9 +31,9 @@ Actively learning, practicing daily, and expanding this repository with new labs
 
 ### Input & Validation
 - password_checker.py
+- ip_validator.py
 
 ### Planned
-- ip_validator.py
 - email_checker.py
 
 
