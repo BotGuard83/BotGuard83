@@ -32,7 +32,7 @@ Security Tools:
 Infrastructure:
 
 • Docker
-• VirtualBox
+• Raspberry Pi
 • Kubernetes
 • Kali Linux
 
