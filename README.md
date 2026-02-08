@@ -2,63 +2,88 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F72D&center=true&vCenter=true&width=700&lines=Giuseppe+Bottaro+%7C+BotGuard83;SOC+Analyst+in+Training;Blue+Team+Defender;Threat+Detection+Focused;Cybersecurity+Lab+Builder"/>
 
 
-<h1 align="center">Giuseppe Bottaro | BotGuard83</h1>
 
+
+<!-- GLITCH CYBER HEADER -->
 <p align="center">
-Cybersecurity Practitioner • SOC Analyst in Training • Blue Team Focus
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=BOTGUARD83&fontSize=50&fontColor=00ffe1&animation=fadeIn"/>
+</p>
+
+<!-- TYPING ANIMATION -->
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00FFE1&center=true&vCenter=true&width=800&lines=SOC+Analyst+in+Training;Blue+Team+Cybersecurity+Specialist;Threat+Detection+%7C+Incident+Response;Container+Security+Researcher;Building+Real+World+Cyber+Labs"/>
+
 </p>
 
 ---
 
-## Mission
+# SOC Analyst | Cybersecurity Practitioner | BotGuard83
 
-Building real-world cybersecurity labs to simulate attacks and practice detection, response, and defense.
+Blue Team focused cybersecurity practitioner building real-world attack and defense labs.
 
----
-
-## Core Skills
-
-• Incident Detection & Analysis  
-• Threat Hunting  
-• Network Enumeration  
-• Linux Security  
-• Container Security (Kubernetes / K3s)  
-• Python Security Automation  
-• SIEM Fundamentals  
-• Offensive Security & CTF Labs  
+Focused on threat detection, incident response, container security, and SOC analyst readiness.
 
 ---
 
-## Tools & Technologies
+# Core Cybersecurity Skills
 
-Linux • Kali Linux • Python • Docker • Kubernetes (K3s)  
-Nmap • Hydra • Gobuster • Netcat  
-Wireshark • Git • VirtualBox  
+<p align="center">
+
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00ffe1"/>
+<img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00ffe1"/>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ffe1"/>
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00ffe1"/>
+<img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=00ffe1"/>
+<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=hackthebox&logoColor=00ffe1"/>
+<img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00ffe1"/>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00ffe1"/>
+
+</p>
 
 ---
 
-## Cybersecurity Labs Portfolio
+# Blue Team / SOC Skills
 
-• Login Brute Force Lab  
+• Threat Detection  
+• Incident Response  
+• Log Analysis  
+• Network Traffic Analysis  
+• Container Enumeration  
+• Linux Hardening  
+• Attack Simulation  
+• Cyber Lab Development  
+
+---
+
+# Cybersecurity Lab Portfolio
+
+Active offensive and defensive lab environment:
+
+• Login Brute Force Attack Lab  
 • Rate Limit Bypass Lab  
-• Container Enumeration Lab  
+• Kubernetes Container Enumeration Lab  
 • Honeypot Detection Lab  
 
+Repository:
+
+https://github.com/BotGuard83/CTF-Labs
+
 ---
 
-## GitHub Stats
+# GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BotGuard83&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BotGuard83&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BotGuard83&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BotGuard83&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## Activity Graph
+# Live Activity Graph
 
 <p align="center">
 
@@ -68,16 +93,18 @@ Wireshark • Git • VirtualBox
 
 ---
 
-## Current Focus
+# Current Focus
 
-• SOC Analyst readiness  
-• Threat detection and logging  
-• Blue Team defensive workflows  
-• Building enterprise-style detection labs  
+Building enterprise-style SOC analyst lab environments simulating real-world cyber attacks and defensive monitoring workflows.
 
 ---
 
-## Contact
+<!-- FOOTER -->
+<p align="center">
 
-GitHub: https://github.com/BotGuard83
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+
+</p>
+
+
 
