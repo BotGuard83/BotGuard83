@@ -84,7 +84,7 @@ Building enterprise-style SOC analyst lab environments simulating real-world cyb
 
 <!-- FOOTER -->
 <p align="center">
-<<<<<<< HEAD
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 
