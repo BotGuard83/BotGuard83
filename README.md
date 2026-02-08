@@ -1,39 +1,85 @@
 # 🔐 BotGuard83 | Cybersecurity Portfolio
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F72D&center=true&vCenter=true&width=700&lines=Giuseppe+Bottaro+%7C+BotGuard83;SOC+Analyst+in+Training;Blue+Team+Defender;Threat+Detection+Focused;Cybersecurity+Lab+Builder"/>
 
-Welcome to **BotGuard83** — a personal cybersecurity portfolio focused on **blue team defense**, **SOC analysis**, and **hands-on security learning**.
 
-## 🛡️ What This Repository Is About
-This repository documents my ongoing journey into cybersecurity through:
-- SOC analyst labs & investigations  
-- Threat detection & alert analysis  
-- Networking & security fundamentals  
-- Scripts, notes, and defensive tooling  
-- Hands-on platforms like **TryHackMe**
+  About Me
 
-## 🎯 Areas of Focus
-- Blue Team Operations  
-- SIEM & Log Analysis  
-- Incident Triage & Response  
-- Network & IP Fundamentals  
-- Security Automation (Python/Bash – growing)
+Cybersecurity practitioner building real-world offensive and defensive lab environments to simulate attacker behavior and develop detection capability.
 
-## 📈 Goal
-To build **real, demonstrable skills** and a **verifiable portfolio** that reflects practical cybersecurity knowledge — not just theory.
+Focused on:
 
-## 🚀 Current Status
-Actively learning, practicing daily, and expanding this repository with new labs and projects.
+• SOC Operations
+• Threat Detection
+• Incident Response
+• Container Security
+• System Hardening
+• Detection Engineering
 
----
+I build vulnerable systems, attack them, analyze compromise, and design defensive detection strategies.
 
-📌 *This repository powers my GitHub profile page.*
+Cybersecurity Tools & Technologies
 
-## Tool Categories Practiced
+Security Tools:
 
-### Input & Validation
-- password_checker.py
-- ip_validator.py
+• Nmap
+• Hydra
+• Gobuster
+• Wireshark
+• Netdiscover
+• Hashcat
 
-### Planned
-- email_checker.py
+Infrastructure:
+
+• Docker
+• VirtualBox
+• Linux
+• Kali Linux
+
+Cybersecurity Lab Portfolio
+CTF-Labs
+
+Custom-built cybersecurity lab designed to simulate real-world attacks and defensive detection.
+
+Includes:
+
+• Authentication attack simulations
+• Container enumeration labs
+• Brute-force detection scenarios
+• Honeypots
+• Logging and incident analysis
+
+Repository:
+
+https://github.com/BotGuard83/CTF-Labs
+
+GitHub Statistics
+Activity Graph
+Current Focus
+
+• SOC Analyst skill development
+• Threat detection engineering
+• Blue Team defensive capability
+• Incident investigation
+• Cybersecurity lab expansion
+
+Career Objective
+
+Seeking SOC Analyst or Blue Team role where I can contribute to threat detection, incident response, and defensive security operations.
+
+Professional Philosophy
+
+Understand attacker methodology
+Detect compromise early
+Protect critical infrastructure
+Continuously improve defensive capability
+
+Contact
+
+GitHub
+https://github.com/BotGuard83
+
+Location
+West Palm Beach, Florida
 
 
