@@ -66,16 +66,6 @@ https://github.com/BotGuard83/CTF-Labs
 
 ---
 
-# GitHub Stats
-
-<p align="center">
-
-[![Giuseppe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BotGuard83&theme=tokyo-night&hide_border=true)](https://github.com/BotGuard83)
-
-</p>
-
----
-
 # Live Activity Graph
 
 <p align="center">
