@@ -33,7 +33,7 @@ Infrastructure:
 
 • Docker
 • VirtualBox
-• Linux
+• Kubernetes
 • Kali Linux
 
 Cybersecurity Lab Portfolio
