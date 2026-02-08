@@ -2,156 +2,82 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F72D&center=true&vCenter=true&width=700&lines=Giuseppe+Bottaro+%7C+BotGuard83;SOC+Analyst+in+Training;Blue+Team+Defender;Threat+Detection+Focused;Cybersecurity+Lab+Builder"/>
 
 
- <h1 align="center">🛡️ Giuseppe Bottaro | BotGuard83</h1>
-
-<h3 align="center">
-SOC Analyst in Training | Blue Team Apprentice | Cybersecurity Lab Builder
-</h3>
+<h1 align="center">Giuseppe Bottaro | BotGuard83</h1>
 
 <p align="center">
-West Palm Beach, Florida • United States  
+Cybersecurity Practitioner • SOC Analyst in Training • Blue Team Focus
 </p>
 
 ---
 
-# 🔥 Mission
+## Mission
 
-Cybersecurity practitioner focused on defensive security, threat detection, and real-world attack simulation.
-
-I build custom CTF labs, simulate attacker behavior, analyze logs, and develop detection techniques using industry tools and real infrastructure.
-
-Focused on becoming a professional SOC Analyst and Threat Hunter.
+Building real-world cybersecurity labs to simulate attacks and practice detection, response, and defense.
 
 ---
 
-# ⚔️ Core Skills
+## Core Skills
 
-• Threat Detection & Log Analysis  
-• SIEM Fundamentals  
-• Network Traffic Analysis  
-• Linux Security & Hardening  
+• Incident Detection & Analysis  
+• Threat Hunting  
+• Network Enumeration  
+• Linux Security  
+• Container Security (Kubernetes / K3s)  
 • Python Security Automation  
-• Container Security (Docker / K3s)  
-• Vulnerability Assessment  
-• Incident Investigation  
-• Adversary Simulation  
+• SIEM Fundamentals  
+• Offensive Security & CTF Labs  
 
 ---
 
-# 🧰 Tools & Technologies
+## Tools & Technologies
 
-<p>
-<img src="https://skillicons.dev/icons?i=linux,python,bash,git,docker,github,vscode" />
-</p>
-
-Security Tools:
-
-• Wireshark  
-• Nmap  
-• Hydra  
-• Gobuster  
-• Netdiscover  
-• Aircrack-ng  
-• Hashcat  
-• Suricata  
-• Security Onion (in progress)
+Linux • Kali Linux • Python • Docker • Kubernetes (K3s)  
+Nmap • Hydra • Gobuster • Netcat  
+Wireshark • Git • VirtualBox  
 
 ---
 
-# 🧪 Cybersecurity Lab Environment
+## Cybersecurity Labs Portfolio
 
-Custom-built local lab including:
-
-• Kali Linux attacker VM  
-• Raspberry Pi vulnerable servers  
-• Docker vulnerable applications  
-• K3s container environments  
-• Brute force attack simulations  
-• Log generation & analysis workflows  
+• Login Brute Force Lab  
+• Rate Limit Bypass Lab  
+• Container Enumeration Lab  
+• Honeypot Detection Lab  
 
 ---
 
-# 🚩 Featured Projects
-
-### CTF Labs
-https://github.com/BotGuard83/CTF-Labs
-
-Custom vulnerable environments designed for attack and defense training.
-
-Includes:
-
-• Login brute force lab  
-• Rate limit bypass lab  
-• Container enumeration lab  
-• Honeypot simulations  
-
----
-
-# 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BotGuard83&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=BotGuard83&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BotGuard83&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BotGuard83&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Activity Graph
+## Activity Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BotGuard83&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BotGuard83&theme=tokyo-night"/>
 
 </p>
 
 ---
 
-# 🎯 Current Focus
+## Current Focus
 
-• SOC Analyst skill development  
-• Threat detection engineering  
-• Container security analysis  
-• CTF lab creation  
-• Blue team defensive techniques  
-
----
-
-# 📚 Learning Path
-
-Currently studying:
-
-• SOC operations  
-• Threat hunting  
-• Network detection  
-• Incident response  
-• Malware analysis fundamentals  
+• SOC Analyst readiness  
+• Threat detection and logging  
+• Blue Team defensive workflows  
+• Building enterprise-style detection labs  
 
 ---
 
-# 🤝 Professional Goal
-
-To secure a role as:
-
-SOC Analyst  
-Security Analyst  
-Threat Detection Analyst  
-Blue Team Analyst  
-
----
-
-# 📫 Contact
+## Contact
 
 GitHub: https://github.com/BotGuard83
-
----
-
-# 🛡️ Motto
-
-"Understand the attacker. Become the defender."
-
-
-
 
