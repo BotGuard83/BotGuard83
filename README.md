@@ -2,7 +2,6 @@
 <!-- GLITCH CYBER HEADER -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=BOTGUARD83&fontSize=50&fontColor=00ffe1&animation=fadeIn"/>
-</p>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
@@ -251,5 +250,5 @@ This lab simulates how a Security Operations Center monitors infrastructure and 
 
 It serves as a practical environment for learning detection engineering, monitoring infrastructure, and cybersecurity operatio
 
-
+</p>
 
