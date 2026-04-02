@@ -1,18 +1,8 @@
 
-<!-- GLITCH CYBER HEADER -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=BOTGUARD83&fontSize=50&fontColor=00ffe1&animation=fadeIn"/>
-
-<!-- TYPING ANIMATION -->
-<p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00FFE1&center=true&vCenter=true&width=800&lines=SOC+Analyst+in+Training;Blue+Team+Cybersecurity+Specialist;Threat+Detection+%7C+Incident+Response;Container+Security+Researcher;Building+Real+World+Cyber+Labs"/>
-
-</p>
 
 ---
 
-#  | Student 
+#  |Student 
 
 Red Team / 
 
