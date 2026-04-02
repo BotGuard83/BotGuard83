@@ -12,9 +12,9 @@
 
 ---
 
-# SOC Analyst | Cybersecurity Practitioner | BotGuard83
+#  | Student 
 
-Blue Team focused cybersecurity practitioner building real-world attack and defense labs.
+Red Team / 
 
 Focused on threat detection, incident response, container security, and SOC analyst readiness.
 
